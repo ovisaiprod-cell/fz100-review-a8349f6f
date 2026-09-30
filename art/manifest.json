@@ -1,0 +1,1127 @@
+{
+ "chars": {
+  "enemy_bombard": {
+   "file": "chars/enemy_bombard.png",
+   "w": 678,
+   "h": 512
+  },
+  "enemy_bomber": {
+   "file": "chars/enemy_bomber.png",
+   "w": 373,
+   "h": 512
+  },
+  "enemy_brute": {
+   "file": "chars/enemy_brute.png",
+   "w": 479,
+   "h": 512
+  },
+  "enemy_cryomorph": {
+   "file": "chars/enemy_cryomorph.png",
+   "w": 505,
+   "h": 512
+  },
+  "enemy_elite_aura": {
+   "file": "chars/enemy_elite_aura.png",
+   "w": 492,
+   "h": 512
+  },
+  "enemy_golem": {
+   "file": "chars/enemy_golem.png",
+   "w": 507,
+   "h": 512
+  },
+  "enemy_hound": {
+   "file": "chars/enemy_hound.png",
+   "w": 541,
+   "h": 512
+  },
+  "enemy_magnet": {
+   "file": "chars/enemy_magnet.png",
+   "w": 527,
+   "h": 512
+  },
+  "enemy_medic": {
+   "file": "chars/enemy_medic.png",
+   "w": 408,
+   "h": 512
+  },
+  "enemy_mimic": {
+   "file": "chars/enemy_mimic.png",
+   "w": 449,
+   "h": 512
+  },
+  "enemy_phaser": {
+   "file": "chars/enemy_phaser.png",
+   "w": 418,
+   "h": 512
+  },
+  "enemy_runner": {
+   "file": "chars/enemy_runner.png",
+   "w": 562,
+   "h": 512
+  },
+  "enemy_shielder": {
+   "file": "chars/enemy_shielder.png",
+   "w": 424,
+   "h": 512
+  },
+  "enemy_sniper": {
+   "file": "chars/enemy_sniper.png",
+   "w": 639,
+   "h": 512
+  },
+  "enemy_spitter": {
+   "file": "chars/enemy_spitter.png",
+   "w": 562,
+   "h": 512
+  },
+  "enemy_swarm": {
+   "file": "chars/enemy_swarm.png",
+   "w": 488,
+   "h": 512
+  },
+  "enemy_thief": {
+   "file": "chars/enemy_thief.png",
+   "w": 522,
+   "h": 512
+  },
+  "enemy_warden": {
+   "file": "chars/enemy_warden.png",
+   "w": 424,
+   "h": 512
+  },
+  "hero_base": {
+   "file": "chars/hero_base.png",
+   "w": 464,
+   "h": 512
+  },
+  "hero_victory": {
+   "file": "chars/hero_victory.png",
+   "w": 308,
+   "h": 512
+  },
+  "hero_weapon_beam": {
+   "file": "chars/hero_weapon_beam.png",
+   "w": 507,
+   "h": 512
+  },
+  "hero_weapon_blizzard": {
+   "file": "chars/hero_weapon_blizzard.png",
+   "w": 495,
+   "h": 512
+  },
+  "hero_weapon_chain": {
+   "file": "chars/hero_weapon_chain.png",
+   "w": 510,
+   "h": 512
+  },
+  "hero_weapon_cryo": {
+   "file": "chars/hero_weapon_cryo.png",
+   "w": 478,
+   "h": 512
+  },
+  "hero_weapon_drone": {
+   "file": "chars/hero_weapon_drone.png",
+   "w": 424,
+   "h": 512
+  },
+  "hero_weapon_grenade": {
+   "file": "chars/hero_weapon_grenade.png",
+   "w": 503,
+   "h": 512
+  },
+  "hero_weapon_hail": {
+   "file": "chars/hero_weapon_hail.png",
+   "w": 476,
+   "h": 512
+  },
+  "hero_weapon_needle": {
+   "file": "chars/hero_weapon_needle.png",
+   "w": 511,
+   "h": 512
+  },
+  "hero_weapon_rail": {
+   "file": "chars/hero_weapon_rail.png",
+   "w": 511,
+   "h": 512
+  },
+  "hero_weapon_spark": {
+   "file": "chars/hero_weapon_spark.png",
+   "w": 464,
+   "h": 512
+  },
+  "enemy_drone": {
+   "file": "chars/enemy_drone.png",
+   "w": 539,
+   "h": 512
+  },
+  "enemy_engineer": {
+   "file": "chars/enemy_engineer.png",
+   "w": 420,
+   "h": 512
+  },
+  "hero_skin_classic": {
+   "file": "chars/hero_skin_classic.png",
+   "w": 433,
+   "h": 512
+  },
+  "hero_skin_cyber": {
+   "file": "chars/hero_skin_cyber.png",
+   "w": 438,
+   "h": 512
+  },
+  "hero_skin_frost": {
+   "file": "chars/hero_skin_frost.png",
+   "w": 429,
+   "h": 512
+  },
+  "hero_skin_ghost": {
+   "file": "chars/hero_skin_ghost.png",
+   "w": 433,
+   "h": 512
+  },
+  "hero_skin_gold": {
+   "file": "chars/hero_skin_gold.png",
+   "w": 433,
+   "h": 512
+  },
+  "hero_skin_hunter": {
+   "file": "chars/hero_skin_hunter.png",
+   "w": 433,
+   "h": 512
+  },
+  "hero_skin_king": {
+   "file": "chars/hero_skin_king.png",
+   "w": 470,
+   "h": 512
+  },
+  "hero_skin_miner": {
+   "file": "chars/hero_skin_miner.png",
+   "w": 441,
+   "h": 512
+  },
+  "hero_skin_neon": {
+   "file": "chars/hero_skin_neon.png",
+   "w": 429,
+   "h": 512
+  },
+  "hero_skin_samurai": {
+   "file": "chars/hero_skin_samurai.png",
+   "w": 478,
+   "h": 512
+  },
+  "hero_skin_sport": {
+   "file": "chars/hero_skin_sport.png",
+   "w": 442,
+   "h": 512
+  },
+  "hero_skin_vault": {
+   "file": "chars/hero_skin_vault.png",
+   "w": 429,
+   "h": 512
+  },
+  "boss_magnate": {
+   "file": "chars/boss_magnate.png",
+   "w": 525,
+   "h": 512
+  },
+  "boss_titan": {
+   "file": "chars/boss_titan.png",
+   "w": 502,
+   "h": 512
+  },
+  "miniboss_collector": {
+   "file": "chars/miniboss_collector.png",
+   "w": 511,
+   "h": 512
+  },
+  "miniboss_hunter": {
+   "file": "chars/miniboss_hunter.png",
+   "w": 488,
+   "h": 512
+  },
+  "miniboss_reactor": {
+   "file": "chars/miniboss_reactor.png",
+   "w": 528,
+   "h": 512
+  }
+ },
+ "anims": {
+  "enemy_bomber": {
+   "attack": {
+    "file": "anim/anim_enemy_bomber_attack.png",
+    "frames": 4,
+    "w": 336,
+    "h": 335,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_bomber_death.png",
+    "frames": 4,
+    "w": 300,
+    "h": 342,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_bomber_move.png",
+    "frames": 6,
+    "w": 294,
+    "h": 361,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_brute": {
+   "attack": {
+    "file": "anim/anim_enemy_brute_attack.png",
+    "frames": 4,
+    "w": 339,
+    "h": 324,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_brute_death.png",
+    "frames": 4,
+    "w": 303,
+    "h": 340,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_brute_move.png",
+    "frames": 6,
+    "w": 258,
+    "h": 376,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_drone": {
+   "attack": {
+    "file": "anim/anim_enemy_drone_attack.png",
+    "frames": 4,
+    "w": 329,
+    "h": 338,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_drone_death.png",
+    "frames": 4,
+    "w": 289,
+    "h": 372,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_drone_move.png",
+    "frames": 6,
+    "w": 259,
+    "h": 307,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_golem": {
+   "attack": {
+    "file": "anim/anim_enemy_golem_attack.png",
+    "frames": 4,
+    "w": 333,
+    "h": 376,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_golem_death.png",
+    "frames": 4,
+    "w": 296,
+    "h": 332,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_golem_move.png",
+    "frames": 6,
+    "w": 269,
+    "h": 356,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_hound": {
+   "attack": {
+    "file": "anim/anim_enemy_hound_attack.png",
+    "frames": 4,
+    "w": 310,
+    "h": 323,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_hound_death.png",
+    "frames": 4,
+    "w": 328,
+    "h": 339,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_hound_move.png",
+    "frames": 6,
+    "w": 269,
+    "h": 289,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_medic": {
+   "move": {
+    "file": "anim/anim_enemy_medic_move.png",
+    "frames": 6,
+    "w": 252,
+    "h": 356,
+    "fps": 10,
+    "loop": true
+   },
+   "attack": {
+    "file": "anim/anim_enemy_medic_attack.png",
+    "frames": 4,
+    "w": 338,
+    "h": 323,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_medic_death.png",
+    "frames": 4,
+    "w": 285,
+    "h": 363,
+    "fps": 8,
+    "loop": false
+   }
+  },
+  "enemy_runner": {
+   "attack": {
+    "file": "anim/anim_enemy_runner_attack.png",
+    "frames": 4,
+    "w": 373,
+    "h": 379,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_runner_death.png",
+    "frames": 4,
+    "w": 299,
+    "h": 359,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_runner_move.png",
+    "frames": 6,
+    "w": 274,
+    "h": 351,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_shielder": {
+   "attack": {
+    "file": "anim/anim_enemy_shielder_attack.png",
+    "frames": 4,
+    "w": 306,
+    "h": 351,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_shielder_death.png",
+    "frames": 4,
+    "w": 320,
+    "h": 337,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_shielder_move.png",
+    "frames": 6,
+    "w": 256,
+    "h": 354,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_sniper": {
+   "attack": {
+    "file": "anim/anim_enemy_sniper_attack.png",
+    "frames": 4,
+    "w": 301,
+    "h": 320,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_sniper_death.png",
+    "frames": 4,
+    "w": 292,
+    "h": 320,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_sniper_move.png",
+    "frames": 6,
+    "w": 258,
+    "h": 311,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_spitter": {
+   "attack": {
+    "file": "anim/anim_enemy_spitter_attack.png",
+    "frames": 4,
+    "w": 338,
+    "h": 262,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_spitter_death.png",
+    "frames": 4,
+    "w": 288,
+    "h": 329,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_spitter_move.png",
+    "frames": 6,
+    "w": 270,
+    "h": 288,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "hero": {
+   "dash": {
+    "file": "anim/anim_hero_dash.png",
+    "frames": 3,
+    "w": 430,
+    "h": 319,
+    "fps": 14,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_hero_death.png",
+    "frames": 4,
+    "w": 458,
+    "h": 384,
+    "fps": 8,
+    "loop": false
+   },
+   "hurt": {
+    "file": "anim/anim_hero_hurt.png",
+    "frames": 2,
+    "w": 277,
+    "h": 384,
+    "fps": 10,
+    "loop": false
+   },
+   "idle": {
+    "file": "anim/anim_hero_idle.png",
+    "frames": 4,
+    "w": 215,
+    "h": 384,
+    "fps": 6,
+    "loop": true
+   },
+   "run": {
+    "file": "anim/anim_hero_run.png",
+    "frames": 8,
+    "w": 230,
+    "h": 384,
+    "fps": 12,
+    "loop": true
+   },
+   "shoot": {
+    "file": "anim/anim_hero_shoot.png",
+    "frames": 3,
+    "w": 261,
+    "h": 384,
+    "fps": 14,
+    "loop": false
+   },
+   "victory": {
+    "file": "anim/anim_hero_victory.png",
+    "frames": 4,
+    "w": 190,
+    "h": 384,
+    "fps": 8,
+    "loop": false
+   }
+  },
+  "enemy_cryomorph": {
+   "attack": {
+    "file": "anim/anim_enemy_cryomorph_attack.png",
+    "frames": 4,
+    "w": 330,
+    "h": 377,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_cryomorph_death.png",
+    "frames": 4,
+    "w": 295,
+    "h": 359,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_cryomorph_move.png",
+    "frames": 6,
+    "w": 273,
+    "h": 344,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_engineer": {
+   "attack": {
+    "file": "anim/anim_enemy_engineer_attack.png",
+    "frames": 4,
+    "w": 251,
+    "h": 384,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_engineer_death.png",
+    "frames": 4,
+    "w": 319,
+    "h": 384,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_engineer_move.png",
+    "frames": 6,
+    "w": 284,
+    "h": 384,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_mimic": {
+   "attack": {
+    "file": "anim/anim_enemy_mimic_attack.png",
+    "frames": 4,
+    "w": 327,
+    "h": 384,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_mimic_death.png",
+    "frames": 4,
+    "w": 298,
+    "h": 381,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_mimic_move.png",
+    "frames": 6,
+    "w": 277,
+    "h": 384,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_phaser": {
+   "attack": {
+    "file": "anim/anim_enemy_phaser_attack.png",
+    "frames": 4,
+    "w": 372,
+    "h": 349,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_phaser_death.png",
+    "frames": 4,
+    "w": 322,
+    "h": 334,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_phaser_move.png",
+    "frames": 6,
+    "w": 283,
+    "h": 347,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_swarm": {
+   "attack": {
+    "file": "anim/anim_enemy_swarm_attack.png",
+    "frames": 4,
+    "w": 295,
+    "h": 318,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_swarm_death.png",
+    "frames": 4,
+    "w": 278,
+    "h": 325,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_swarm_move.png",
+    "frames": 6,
+    "w": 269,
+    "h": 304,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_thief": {
+   "attack": {
+    "file": "anim/anim_enemy_thief_attack.png",
+    "frames": 4,
+    "w": 326,
+    "h": 271,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_thief_death.png",
+    "frames": 4,
+    "w": 289,
+    "h": 306,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_thief_move.png",
+    "frames": 6,
+    "w": 256,
+    "h": 288,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_warden": {
+   "attack": {
+    "file": "anim/anim_enemy_warden_attack.png",
+    "frames": 4,
+    "w": 219,
+    "h": 384,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_warden_death.png",
+    "frames": 4,
+    "w": 300,
+    "h": 384,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_warden_move.png",
+    "frames": 6,
+    "w": 260,
+    "h": 384,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_bombard": {
+   "attack": {
+    "file": "anim/anim_enemy_bombard_attack.png",
+    "frames": 4,
+    "w": 305,
+    "h": 286,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_bombard_death.png",
+    "frames": 4,
+    "w": 287,
+    "h": 319,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_bombard_move.png",
+    "frames": 6,
+    "w": 253,
+    "h": 263,
+    "fps": 10,
+    "loop": true
+   }
+  },
+  "enemy_magnet": {
+   "attack": {
+    "file": "anim/anim_enemy_magnet_attack.png",
+    "frames": 4,
+    "w": 367,
+    "h": 283,
+    "fps": 10,
+    "loop": false
+   },
+   "death": {
+    "file": "anim/anim_enemy_magnet_death.png",
+    "frames": 4,
+    "w": 291,
+    "h": 317,
+    "fps": 8,
+    "loop": false
+   },
+   "move": {
+    "file": "anim/anim_enemy_magnet_move.png",
+    "frames": 6,
+    "w": 257,
+    "h": 290,
+    "fps": 10,
+    "loop": true
+   }
+  }
+ },
+ "icons": {
+  "icon_weapon_beam": {
+   "file": "icons/icon_weapon_beam.png",
+   "w": 256,
+   "h": 158
+  },
+  "icon_weapon_blizzard": {
+   "file": "icons/icon_weapon_blizzard.png",
+   "w": 256,
+   "h": 128
+  },
+  "icon_weapon_chain": {
+   "file": "icons/icon_weapon_chain.png",
+   "w": 256,
+   "h": 147
+  },
+  "icon_weapon_cryo": {
+   "file": "icons/icon_weapon_cryo.png",
+   "w": 256,
+   "h": 151
+  },
+  "icon_weapon_drone": {
+   "file": "icons/icon_weapon_drone.png",
+   "w": 256,
+   "h": 199
+  },
+  "icon_weapon_grenade": {
+   "file": "icons/icon_weapon_grenade.png",
+   "w": 256,
+   "h": 159
+  },
+  "icon_weapon_hail": {
+   "file": "icons/icon_weapon_hail.png",
+   "w": 256,
+   "h": 197
+  },
+  "icon_weapon_needle": {
+   "file": "icons/icon_weapon_needle.png",
+   "w": 256,
+   "h": 115
+  },
+  "icon_weapon_rail": {
+   "file": "icons/icon_weapon_rail.png",
+   "w": 256,
+   "h": 128
+  },
+  "icon_weapon_spark": {
+   "file": "icons/icon_weapon_spark.png",
+   "w": 256,
+   "h": 212
+  },
+  "icon_skill_cryonova": {
+   "file": "icons/icon_skill_cryonova.png",
+   "w": 256,
+   "h": 239
+  },
+  "icon_skill_decoy": {
+   "file": "icons/icon_skill_decoy.png",
+   "w": 148,
+   "h": 256
+  },
+  "icon_skill_magnet": {
+   "file": "icons/icon_skill_magnet.png",
+   "w": 256,
+   "h": 248
+  },
+  "icon_skill_shield": {
+   "file": "icons/icon_skill_shield.png",
+   "w": 256,
+   "h": 253
+  },
+  "icon_skill_slowmo": {
+   "file": "icons/icon_skill_slowmo.png",
+   "w": 249,
+   "h": 256
+  },
+  "icon_skill_turret": {
+   "file": "icons/icon_skill_turret.png",
+   "w": 256,
+   "h": 246
+  },
+  "icon_chest": {
+   "file": "icons/icon_chest.png",
+   "w": 256,
+   "h": 254
+  },
+  "icon_evac": {
+   "file": "icons/icon_evac.png",
+   "w": 225,
+   "h": 256
+  },
+  "icon_key": {
+   "file": "icons/icon_key.png",
+   "w": 256,
+   "h": 208
+  },
+  "icon_lock": {
+   "file": "icons/icon_lock.png",
+   "w": 234,
+   "h": 256
+  },
+  "icon_star": {
+   "file": "icons/icon_star.png",
+   "w": 256,
+   "h": 247
+  },
+  "icon_up_armor": {
+   "file": "icons/icon_up_armor.png",
+   "w": 256,
+   "h": 242
+  },
+  "icon_up_combo": {
+   "file": "icons/icon_up_combo.png",
+   "w": 215,
+   "h": 256
+  },
+  "icon_up_cryorate": {
+   "file": "icons/icon_up_cryorate.png",
+   "w": 256,
+   "h": 256
+  },
+  "icon_up_dash": {
+   "file": "icons/icon_up_dash.png",
+   "w": 256,
+   "h": 244
+  },
+  "icon_up_hp": {
+   "file": "icons/icon_up_hp.png",
+   "w": 256,
+   "h": 238
+  },
+  "icon_up_insurance": {
+   "file": "icons/icon_up_insurance.png",
+   "w": 256,
+   "h": 251
+  },
+  "icon_up_luck": {
+   "file": "icons/icon_up_luck.png",
+   "w": 240,
+   "h": 256
+  },
+  "icon_up_magnet": {
+   "file": "icons/icon_up_magnet.png",
+   "w": 250,
+   "h": 256
+  },
+  "icon_up_mult": {
+   "file": "icons/icon_up_mult.png",
+   "w": 256,
+   "h": 254
+  },
+  "icon_up_penalty": {
+   "file": "icons/icon_up_penalty.png",
+   "w": 256,
+   "h": 253
+  },
+  "icon_up_slots": {
+   "file": "icons/icon_up_slots.png",
+   "w": 256,
+   "h": 247
+  },
+  "icon_up_speed": {
+   "file": "icons/icon_up_speed.png",
+   "w": 253,
+   "h": 256
+  }
+ },
+ "images": {
+  "portrait_hunter": {
+   "file": "portraits/portrait_hunter.png",
+   "w": 1024,
+   "h": 1024
+  },
+  "portrait_magnate": {
+   "file": "portraits/portrait_magnate.png",
+   "w": 1024,
+   "h": 1024
+  },
+  "portrait_titan": {
+   "file": "portraits/portrait_titan.png",
+   "w": 1024,
+   "h": 1024
+  },
+  "bg_arsenal_panel": {
+   "file": "bg/bg_arsenal_panel.png",
+   "w": 1254,
+   "h": 1254
+  },
+  "bg_citymap_169": {
+   "file": "bg/bg_citymap_169.png",
+   "w": 1672,
+   "h": 941
+  },
+  "bg_citymap_916": {
+   "file": "bg/bg_citymap_916.png",
+   "w": 941,
+   "h": 1672
+  },
+  "bg_cryo_panel": {
+   "file": "bg/bg_cryo_panel.png",
+   "w": 1254,
+   "h": 1254
+  },
+  "bg_hub_169": {
+   "file": "bg/bg_hub_169.png",
+   "w": 1672,
+   "h": 941
+  },
+  "bg_hub_916": {
+   "file": "bg/bg_hub_916.png",
+   "w": 941,
+   "h": 1672
+  },
+  "bg_terminal_panel": {
+   "file": "bg/bg_terminal_panel.png",
+   "w": 1254,
+   "h": 1254
+  },
+  "bg_wardrobe_panel": {
+   "file": "bg/bg_wardrobe_panel.png",
+   "w": 1254,
+   "h": 1254
+  },
+  "bg_zone_z1": {
+   "file": "bg/bg_zone_z1.png",
+   "w": 1672,
+   "h": 941
+  },
+  "bg_zone_z2": {
+   "file": "bg/bg_zone_z2.png",
+   "w": 1672,
+   "h": 941
+  },
+  "bg_zone_z3": {
+   "file": "bg/bg_zone_z3.png",
+   "w": 1672,
+   "h": 941
+  },
+  "app_icon": {
+   "file": "bg/app_icon.png",
+   "w": 1254,
+   "h": 1254
+  },
+  "keyart_169": {
+   "file": "bg/keyart_169.png",
+   "w": 1672,
+   "h": 941
+  },
+  "keyart_916": {
+   "file": "bg/keyart_916.png",
+   "w": 941,
+   "h": 1672
+  },
+  "logo_icebreaker_x100": {
+   "file": "bg/logo_icebreaker_x100.png",
+   "w": 1400,
+   "h": 498
+  },
+  "map_level01": {
+   "file": "maps/map_level01.png",
+   "w": 1448,
+   "h": 1086
+  },
+  "map_level02": {
+   "file": "maps/map_level02.png",
+   "w": 1916,
+   "h": 821
+  },
+  "map_level03": {
+   "file": "maps/map_level03.png",
+   "w": 1254,
+   "h": 1254
+  },
+  "map_level04": {
+   "file": "maps/map_level04.png",
+   "w": 1254,
+   "h": 1254
+  },
+  "map_level05": {
+   "file": "maps/map_level05.png",
+   "w": 1916,
+   "h": 821
+  },
+  "map_level06": {
+   "file": "maps/map_level06.png",
+   "w": 1448,
+   "h": 1086
+  },
+  "map_level07": {
+   "file": "maps/map_level07.png",
+   "w": 1254,
+   "h": 1254
+  },
+  "map_level08": {
+   "file": "maps/map_level08.png",
+   "w": 1448,
+   "h": 1086
+  },
+  "map_level10": {
+   "file": "maps/map_level10.png",
+   "w": 1254,
+   "h": 1254
+  },
+  "tex_floor_z1": {
+   "file": "tex/tex_floor_z1.png",
+   "w": 1024,
+   "h": 1024
+  },
+  "tex_floor_z2": {
+   "file": "tex/tex_floor_z2.png",
+   "w": 1024,
+   "h": 1024
+  },
+  "tex_floor_z3": {
+   "file": "tex/tex_floor_z3.png",
+   "w": 1024,
+   "h": 1024
+  },
+  "tex_wall": {
+   "file": "tex/tex_wall.png",
+   "w": 1024,
+   "h": 1024
+  }
+ }
+}
